@@ -1,7 +1,6 @@
 ## If you want to embed images, this is how you do it:
 
-![Image of Yakotocat]
-(https://octodex.github.com/images/yaktocat.png)
+![Image of Yakotocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Sometime you want numbered **lists**:
 
