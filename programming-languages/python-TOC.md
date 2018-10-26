@@ -1,9 +1,9 @@
-##If you want to embed images, this is how you do it:
+## If you want to embed images, this is how you do it:
 
 ![Image of Yakotocat]
 (https://octodex.github.com/images/yaktocat.png)
 
-##Sometime you want numbered **lists**:
+## Sometime you want numbered **lists**:
 
 1. One
 2. Two
@@ -16,7 +16,7 @@ alternatively,
     - Like this
     - And this
 
-##Blockquotes
+## Blockquotes
 
 As Kanye west said:
 
