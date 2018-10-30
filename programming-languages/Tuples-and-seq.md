@@ -1,5 +1,11 @@
 ## Tuples are Examples of Sequence Data Types which Include Lists, range etc.
 
-Tuples are **Immutable** and Heterogenous sequence of elements that are accessed via unpacking and Indexing.
+Tuples are ordered sequence of  **Immutable** and Heterogenous elements that are accessed via unpacking and Indexing.
 
+```
+te = ()
+
+t = (2,"One",3)
+
+```
 
