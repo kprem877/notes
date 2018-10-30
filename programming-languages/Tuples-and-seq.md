@@ -8,4 +8,12 @@ te = ()
 t = (2,"One",3)
 
 ```
+# Singelton Tuples Examples
 
+Tuples having single element is called Singelton Tuples
+
+```
+>>>t = (2,"one",3,4)
+>>>print(t[1:2])
+>>>("One",)
+```
