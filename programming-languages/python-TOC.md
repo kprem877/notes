@@ -1,42 +1,22 @@
-## If you want to embed images, this is how you do it:
+# Table of contents for python:
 
-![Image of Yakotocat](https://octodex.github.com/images/yaktocat.png)
-
-## Sometime you want numbered **lists**:
-
-1. One
-2. Two
-3. Three
-
-alternatively,
-
-- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-    - Like this
-    - And this
-
-## Blockquotes
-
-As Kanye west said:
-
-> We're living the future so
-> the present is our past.
-
-Github also supports something calledcode fencing , which allows for multiple lines without identation:
-
-```
-if (isAwesome){
-    return True
-}
-
-```
-Some Python Code
-
-```
-def fib(n):
-    if n == 0 or n == 1:
-        return 1
-    else:
-        return fib(n-1)+fib(n-2)
-```
-
+1. Interpreted VS. Compiled
+2. Installation
+3. Python Interpreter and Hello World
+4. Keywords and Identifiers
+5. Python Data Structures
+   1.  Strings
+   2.  Lists
+    - Using Lists as Stacks
+    - Using Lists as Queues
+    - List Comprehensions
+    3.  Dictionaries
+    4.  Tuples and Sequences
+    5.  Sets
+6. Control Flow
+7. Modules and Packages
+8. Errors and Exceptions
+9. Input and Output
+10. Reading and Writing files
+11. Classes and OOP
+12. Python Libraries
