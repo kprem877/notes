@@ -17,3 +17,13 @@ Tuples having single element is called Singelton Tuples
 >>>print(t[1:2])
 >>>("One",)
 ```
+
+## Helps Return multiple elements
+
+```
+def quotient_and_remainder(m,n):
+    q = m//n
+    r = m%n
+
+    return (q,r)
+```
