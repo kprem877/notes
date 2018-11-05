@@ -7,3 +7,8 @@
 5. File Concept and Management
 6. File Access Methods
 7. File Space Management
+
+# 1. Points About the Disk Drive:
+Here is an Internal Image of Hard Drive:
+![Internals of Hard Drive](https://raw.githubusercontent.com/kprem877/notes/master/cs/hard-disk-drive-internal-details.jpg))
+
