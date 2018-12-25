@@ -12,3 +12,4 @@
 Here is an Internal Image of Hard Drive:
 ![Internals of Hard Drive](https://github.com/kprem877/notes/blob/master/cs/file-systems/hard-disk-drive-internal-details.jpg))
 
+
