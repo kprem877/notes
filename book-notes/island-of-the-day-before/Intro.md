@@ -1,8 +1,10 @@
 **Island of the day before**
 
 #The Author is Zunni Chopra.
+
 ##The Book is compilation of short stories from her's background.
- List of Chapters:- 
+
+List of Chapters:-
 1. They've Got It Wrong
 2. The End of the Lane
 3. The Sailor's Wife
