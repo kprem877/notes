@@ -1,8 +1,10 @@
 **Island of the day before**
 
-#The Author is Zunni Chopra.
+# The Author is Zunni Chopra.
 
-##The Book is compilation of short stories from her's background.
+## With this book , Author Zunni Chopra takes the readers on an extraordinary and consistently unpredictable voyage.  Boldly experimental in terms of themes and forms , these whimsical tales - prose,poetry, flash fiction - of the everyday and the extraordinary , the fantastical and the mundane , will keep haunting you long after you have read them.
+
+## This is a work of excpetional imagination from a young,prodigious talent - a rising star in the literary firmanent
 
 List of Chapters:-
 1. They've Got It Wrong
